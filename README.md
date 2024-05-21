@@ -13,9 +13,11 @@
 
 ## Conclusion:
 #### The Crop Recommendation System epitomizes the forefront of data-driven agriculture. By considering soil minerals, humidity, temperature, and rainfall, it equips farmers with the knowledge to make informed crop selection decisions. This approach not only enhances productivity but also fosters more sustainable and resilient farming practices, crucial for the future of agriculture in a dynamic world. As technology progresses, projects like these underscore the transformative impact of data in agriculture, showcasing its potential to revolutionize farming practices and ensure food security for generations to come.
-
-
-
+## HOME PAGE 
+![image](https://github.com/Rajeev7543/Crop-Recommendation/assets/129674979/e925b972-4c42-4f29-bb78-cca95dc6069c)
+## INDEX PAGE
+![image](https://github.com/Rajeev7543/Crop-Recommendation/assets/129674979/4c9ca9a2-3d50-4310-9151-822c4fdafed4)
+## PREDICTION PAGE
 ![image](https://github.com/Rajeev7543/Crop-Recommendation/assets/129674979/a2dd1a41-c230-49e6-befe-1adbdfda8ba2)
 
 
